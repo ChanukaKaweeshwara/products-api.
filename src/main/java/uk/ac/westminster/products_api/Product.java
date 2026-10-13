@@ -11,6 +11,7 @@ public class Product {
         this.price = price;
     }
 
+    // Activity 3 tested
     public Long getID() {return id;}
     public String getName() {return name;}
     public double getPrice() {return price;}
